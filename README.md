@@ -1,4 +1,4 @@
-# Titanic dataset-Exploratory Data Analysis
+# Task2-Titanic dataset-Exploratory Data Analysis
 This repository contains an in-depth Exploratory Data Analysis (EDA) of the Titanic dataset provided by Kaggle. The Titanic dataset is a classic example in data science used for binary classification tasks – predicting whether a passenger survived or not based on features like age, sex, class, fare, etc.
 ## ✅Objectives
 1. Understand the dataset and its features
